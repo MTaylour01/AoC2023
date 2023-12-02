@@ -1,0 +1,4 @@
+SECRET_COOKIE
+submissions.csv
+*.dat
+__pycache__
