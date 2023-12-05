@@ -18,6 +18,7 @@ I'm so sad the numbers are big here, I had a nice class to represent a mapping a
 
 # Bonuses
 Congrats on making it this far
+
 if you wanna ask about these or tell me "you suck you should've just done blah blah blah" and make me cry, add me on discord melia0294
 ![Me](whenyoubullyme.png)
 (Just remember when you bully me, this is who you're being mean to) 
